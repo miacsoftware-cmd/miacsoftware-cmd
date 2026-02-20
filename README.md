@@ -1,10 +1,10 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👩🏻‍💻 María Isabel Amaris Calderón</h1>
+<h1 align="center">María Isabel Amaris Calderón</h1>
 
 <h3 align="center">
-Ingeniería de Software 💙 | Desarrolladora Fullstack en Formación <br>
-Fundadora de <strong>Mia Software</strong> 🚀
+Ingeniería de Software | Desarrolladora Fullstack en Formación <br>
+Fundadora de <strong>Mia Software</strong>
 </h3>
 
 <p align="center">
@@ -13,27 +13,20 @@ Transformando ideas en soluciones digitales modernas, eficientes e innovadoras.
 
 ---
 
-<!-- ======================= SOBRE MI ======================= -->
+## Sobre mí
 
-## 🚀 Sobre mí
+Estudiante de Ingeniería de Software en la Universidad de Cartagena.  
+Apasionada por el desarrollo web fullstack y el diseño de bases de datos.  
 
-🎓 Estudiante de **Ingeniería de Software** en la Universidad de Cartagena.  
-💡 Apasionada por el desarrollo web fullstack y el diseño de bases de datos.  
-🔥 En constante aprendizaje y construyendo proyectos reales con impacto.  
+Me enfoco en construir soluciones tecnológicas combinando creatividad, pensamiento lógico, buenas prácticas de desarrollo y arquitectura escalable.
 
-Creo soluciones tecnológicas combinando:
-- ✨ Creatividad
-- 🧠 Pensamiento lógico
-- 🛠️ Buenas prácticas de desarrollo
-- 📈 Enfoque en escalabilidad
+Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades en frontend, backend y modelado de bases de datos.
 
 ---
 
-<!-- ======================= STACK ======================= -->
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
+### Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,7 +35,7 @@ Creo soluciones tecnológicas combinando:
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -50,7 +43,7 @@ Creo soluciones tecnológicas combinando:
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-26a69a?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -58,7 +51,7 @@ Creo soluciones tecnológicas combinando:
 <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔧 Herramientas
+### Herramientas
 <p>
 <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,9 +65,7 @@ Creo soluciones tecnológicas combinando:
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miacsoftware-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -83,31 +74,27 @@ Creo soluciones tecnológicas combinando:
 
 ---
 
-<!-- ======================= PROYECTO ======================= -->
+## Proyecto Destacado
 
-## 🌟 Proyecto Destacado
-
-### 🚀 Mia Software
+### Mia Software
 
 Emprendimiento enfocado en el desarrollo de soluciones digitales personalizadas.
 
-✔️ Diseño web moderno  
-✔️ Desarrollo fullstack  
-✔️ Integración de bases de datos  
-✔️ Experiencia visual atractiva  
+- Diseño web moderno  
+- Desarrollo fullstack  
+- Integración de bases de datos  
+- Interfaces limpias y funcionales  
 
 ---
 
-<!-- ======================= CONTACTO ======================= -->
+## Contacto
 
-## 📬 Conectemos
-
-📧 **Correo:** miacsoftware@gmail.com  
-🌐 **Portafolio:** https://miacsoftware-cmd.github.io/Portafolio_mia/  
-📍 **Ubicación:** Magangué, Bolívar, Colombia  
+Correo: miacsoftware@gmail.com  
+Portafolio: https://miacsoftware-cmd.github.io/Portafolio_mia/  
+Ubicación: Magangué, Bolívar, Colombia  
 
 ---
 
 <p align="center">
-✨ <strong>Construyendo el futuro, una línea de código a la vez.</strong> ✨
+Construyendo el futuro a través del desarrollo de software.
 </p>
