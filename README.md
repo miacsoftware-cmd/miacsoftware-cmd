@@ -1,19 +1,19 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center" style="color:#5B8EE8;">María Isabel Amaris Calderón</h1>
+<h1 align="center">María Isabel Amaris Calderón</h1>
 
-<h3 align="center" style="color:#0DB3D6;">
+<h3 align="center">
 Ingeniería de Software | Desarrolladora Fullstack en Formación <br>
 Fundadora de <strong>Mia Software</strong>
 </h3>
 
-<p align="center" style="color:#073445;">
-Transformando ideas en soluciones digitales modernas, eficientes e innovadoras.
+<p align="center">
+Construyendo soluciones digitales modernas, eficientes y escalables.
 </p>
 
 <p align="center">
 <a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Portafolio-5B8EE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visitar_Portafolio-5B8EE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
@@ -21,11 +21,10 @@ Transformando ideas en soluciones digitales modernas, eficientes e innovadoras.
 
 ## Sobre mí
 
-Estudiante de Ingeniería de Software en la Universidad de Cartagena.  
-Apasionada por el desarrollo web fullstack y el diseño y modelado de bases de datos.  
+Estudiante de Ingeniería de Software en la Universidad de Cartagena, con enfoque en desarrollo web fullstack y diseño de bases de datos.
 
-Me enfoco en construir soluciones tecnológicas combinando creatividad, pensamiento lógico y arquitectura escalable.  
-Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades en frontend, backend e integración de sistemas.
+Me interesa la arquitectura de software, la integración de sistemas y la creación de experiencias digitales funcionales y visualmente atractivas.  
+Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades técnicas y estratégicas.
 
 ---
 
@@ -33,36 +32,36 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ### Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-5B8EE8?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0DB3D6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-073445?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-5B8EE8?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-0DB3D6?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/PHP-073445?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-5B8EE8?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-0DB3D6?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-073445?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Bases de Datos
 <p>
-<img src="https://img.shields.io/badge/MySQL-5B8EE8?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-0DB3D6?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-073445?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-5B8EE8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-26a69a?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Herramientas
 <p>
-<img src="https://img.shields.io/badge/Git-0DB3D6?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-073445?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-5B8EE8?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-0DB3D6?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-073445?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=black"/>
 </p>
 
 ---
@@ -80,7 +79,7 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ### Mia Software
 
-Desarrollo de soluciones digitales personalizadas enfocadas en diseño moderno, eficiencia técnica y experiencia de usuario limpia.
+Desarrollo de soluciones digitales personalizadas enfocadas en rendimiento, estructura sólida y diseño profesional.
 
 ---
 
@@ -91,10 +90,7 @@ Ubicación: Magangué, Bolívar, Colombia
 
 ---
 
-<p align="center" style="color:#5B8EE8; font-size:18px;">
-Espero que este proyecto te inspire tanto como a mí me inspiró construirlo.
-</p>
-
-<p align="center" style="color:#0DB3D6;">
-Cada línea de código es una oportunidad para crear algo extraordinario.
+<p align="center" style="font-size:18px;">
+El software no solo resuelve problemas, también crea oportunidades.  
+Mi propósito es convertir ideas en sistemas que generen impacto real.
 </p>
