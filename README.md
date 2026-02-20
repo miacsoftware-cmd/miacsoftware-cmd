@@ -1,107 +1,56 @@
-<div align="center">
+# María Isabel Amaris Calderón
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080e1a,50:1a3a6b,100:06b6d4&height=300&section=header&text=María%20Isabel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Amaris%20Calderón%20·%20Mia%20Software&descAlignY=62&descSize=22&descColor=06b6d4&stroke=2d5fb3&strokeWidth=2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=_%+Desarrolladora+Fullstack+en+Formación;_%+Fundadora+de+Mia+Software+🚀;_%+Ingeniería+de+Software+·+6to+Semestre;_%+Creando+a+partir+de+tu+imaginación+💡;_%+Disponible+para+proyectos+freelance+✅" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Visitas](https://komarev.com/ghpvc/?username=miacsoftware-cmd&color=06b6d4&style=for-the-badge&label=VISITAS+AL+PERFIL)](https://github.com/miacsoftware-cmd)
-&nbsp;
-[![Portafolio](https://img.shields.io/badge/🌐%20VER%20PORTAFOLIO-1a3a6b?style=for-the-badge)](https://miacsoftware-cmd.github.io/Portafolio_mia/)
-&nbsp;
-[![Email](https://img.shields.io/badge/📩%20ESCRIBEME-2d5fb3?style=for-the-badge)](mailto:miacsoftware@gmail.com)
-
-</div>
+Ingeniería de Software | Desarrolladora Fullstack en Formación
+Fundadora de Mia Software — Creando a partir de tu imaginación
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=miacsoftware-cmd&show_icons=true&theme=tokyonight&hide_border=true&title_color=06b6d4&icon_color=5b8ee8&text_color=a8b8d8&bg_color=0d1627&include_all_commits=true"/>
+## Sobre mí
 
-### `whoami`
-
-```yaml
-nombre    : María Isabel Amaris Calderón
-alias     : Mia
-empresa   : Mia Software
-pais      : Colombia 🇨🇴
-ciudad    : Magangué, Bolívar
-rol       : Desarrolladora Fullstack
-semestre  : 6to — Ingeniería de Software
-estado    : ✅ Disponible para proyectos
-```
-
-<br clear="right"/>
+Soy estudiante de Ingeniería de Software en la Universidad de Cartagena,
+apasionada por el desarrollo web fullstack y las bases de datos.
+Mi objetivo es construir soluciones tecnológicas modernas, eficientes
+e innovadoras a través de Mia Software.
 
 ---
 
-### Stack Tecnológico
-
-<div align="center">
-
-| Frontend | Backend | Bases de Datos | Herramientas |
-|:---:|:---:|:---:|:---:|
-| ![HTML5](https://skillicons.dev/icons?i=html) | ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![CSS3](https://skillicons.dev/icons?i=css) | ![NodeJS](https://skillicons.dev/icons?i=nodejs) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![GitHub](https://skillicons.dev/icons?i=github) |
-| ![JavaScript](https://skillicons.dev/icons?i=js) | ![Python](https://skillicons.dev/icons?i=python) | ![MariaDB](https://skillicons.dev/icons?i=mariadb) | ![Postman](https://skillicons.dev/icons?i=postman) |
-| ![React](https://skillicons.dev/icons?i=react) | ![Java](https://skillicons.dev/icons?i=java) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Figma](https://skillicons.dev/icons?i=figma) |
-| ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![CPP](https://skillicons.dev/icons?i=cpp) | | ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio) |
-
-</div>
-
----
-
-### Estadísticas
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miacsoftware-cmd&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&text_color=a8b8d8&bg_color=0d1627&langs_count=8"/>
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=miacsoftware-cmd&theme=tokyonight&hide_border=true&background=0d1627&ring=06b6d4&fire=5b8ee8&currStreakLabel=06b6d4&sideLabels=a8b8d8&dates=5a7099&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
-### Certificaciones SENA
-
-<div align="center">
-
-![](https://img.shields.io/badge/✔-App_Inventor-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-Ciberseguridad-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-Bases_de_Datos-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-MySQL-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-Calidad_Software-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-Python_Análisis-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-PHP_Web-1a3a6b?style=for-the-badge)
-![](https://img.shields.io/badge/✔-Técnico_Sistemas-2d5fb3?style=for-the-badge)
-
-</div>
+## Tecnologías y herramientas
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5c2d91?style=flat-square&logo=dotnet&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-26a69a?style=flat-square&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat-square&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-ffb347?style=flat-square&logo=maildotru&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-ff6c37?style=flat-square&logo=cpanel&logoColor=white)
 
 ---
 
-### Contacto
+## Estadísticas GitHub
 
-<div align="center">
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=miacsoftware-cmd&show_icons=true&theme=tokyonight&hide_border=true&title_color=5b8ee8&icon_color=06b6d4&text_color=a8b8d8&bg_color=0d1627)
 
-| 📧 Correo | 🌐 Portafolio | 📍 Ubicación | ⏰ Disponibilidad |
-|:---:|:---:|:---:|:---:|
-| miacsoftware@gmail.com | [Ver portafolio](https://miacsoftware-cmd.github.io/Portafolio_mia/) | Magangué, Colombia | Lun–Vie 8:00–18:00 |
-
-</div>
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=miacsoftware-cmd&layout=compact&theme=tokyonight&hide_border=true&title_color=5b8ee8&text_color=a8b8d8&bg_color=0d1627)
 
 ---
 
-<div align="center">
+## Contacto
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2d5fb3,100:080e1a&height=130&section=footer&text=Mia%20Software%20·%20Creando%20a%20partir%20de%20tu%20imaginación&fontSize=14&fontColor=a8b8d8&fontAlignY=65&animation=twinkling"/>
-
-</div>
+Correo: miacsoftware@gmail.com
+Portafolio: https://miacsoftware-cmd.github.io/Portafolio_mia/
+Ubicación: Magangué, Bolívar, Colombia
