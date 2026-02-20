@@ -26,9 +26,19 @@ e innovadoras a través de Mia Software.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5c2d91?style=flat-square&logo=dotnet&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-26a69a?style=flat-square&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat-square&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-ffb347?style=flat-square&logo=maildotru&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-ff6c37?style=flat-square&logo=cpanel&logoColor=white)
 
 ---
 
