@@ -1,16 +1,81 @@
-## Hi there 👋
+# María Isabel Amaris Calderón
 
-<!--
-**miacsoftware-cmd/miacsoftware-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniería de Software | Desarrolladora Fullstack en Formación
+Fundadora de Mia Software — Creando a partir de tu imaginación
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy estudiante de Ingeniería de Software en la Universidad de Cartagena,
+apasionada por el desarrollo web fullstack y las bases de datos.
+Mi objetivo es construir soluciones tecnológicas modernas, eficientes
+e innovadoras a través de Mia Software.
+
+---
+
+## Tecnologías y herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## Estadísticas GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=miacsoftware-cmd&show_icons=true&theme=tokyonight&hide_border=true&title_color=5b8ee8&icon_color=06b6d4&text_color=a8b8d8&bg_color=0d1627)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=miacsoftware-cmd&layout=compact&theme=tokyonight&hide_border=true&title_color=5b8ee8&text_color=a8b8d8&bg_color=0d1627)
+
+---
+
+## Contacto
+
+Correo: miacsoftware@gmail.com
+Portafolio: https://miacsoftware-cmd.github.io/Portafolio_mia/
+Ubicación: Magangué, Bolívar, Colombia
+```
+
+---
+
+## 2. Agrega foto de perfil
+
+Sube el logo `mia.png` o una foto tuya profesional. Haz clic en el círculo de la foto → **Edit**.
+
+---
+
+## 3. Agrega topics al repositorio
+
+Ve a `Portafolio_mia` → clic en el engranaje ⚙️ junto a **About** y agrega:
+```
+portfolio  html  css  javascript  fullstack  dark-theme  emailjs  responsive
+```
+
+---
+
+## 4. Actualiza la descripción del repositorio
+
+En ese mismo **About** cambia la descripción a:
+```
+Portafolio personal desarrollado con HTML, CSS y JavaScript. 
+Diseño oscuro profesional con formulario de contacto integrado via EmailJS.
+```
+
+---
+
+## 5. Agrega el link del portafolio al repositorio
+
+En el **About** activa **Website** y pega:
+```
+https://miacsoftware-cmd.github.io/Portafolio_mia/
