@@ -1,14 +1,20 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">María Isabel Amaris Calderón</h1>
+<h1 align="center" style="color:#5B8EE8;">María Isabel Amaris Calderón</h1>
 
-<h3 align="center">
+<h3 align="center" style="color:#0DB3D6;">
 Ingeniería de Software | Desarrolladora Fullstack en Formación <br>
 Fundadora de <strong>Mia Software</strong>
 </h3>
 
-<p align="center">
+<p align="center" style="color:#073445;">
 Transformando ideas en soluciones digitales modernas, eficientes e innovadoras.
+</p>
+
+<p align="center">
+<a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
+<img src="https://img.shields.io/badge/Ver_Portafolio-5B8EE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -16,11 +22,10 @@ Transformando ideas en soluciones digitales modernas, eficientes e innovadoras.
 ## Sobre mí
 
 Estudiante de Ingeniería de Software en la Universidad de Cartagena.  
-Apasionada por el desarrollo web fullstack y el diseño de bases de datos.  
+Apasionada por el desarrollo web fullstack y el diseño y modelado de bases de datos.  
 
-Me enfoco en construir soluciones tecnológicas combinando creatividad, pensamiento lógico, buenas prácticas de desarrollo y arquitectura escalable.
-
-Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades en frontend, backend y modelado de bases de datos.
+Me enfoco en construir soluciones tecnológicas combinando creatividad, pensamiento lógico y arquitectura escalable.  
+Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades en frontend, backend e integración de sistemas.
 
 ---
 
@@ -28,39 +33,36 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ### Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-5B8EE8?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-0DB3D6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-073445?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-5B8EE8?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-0DB3D6?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-073445?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5B8EE8?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0DB3D6?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-073445?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Bases de Datos
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-26a69a?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-5B8EE8?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-0DB3D6?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-073445?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-5B8EE8?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Herramientas
 <p>
-<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/EmailJS-ffb347?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/cPanel-ff6c37?style=for-the-badge&logo=cpanel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0DB3D6?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-073445?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-5B8EE8?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0DB3D6?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-073445?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ---
@@ -78,23 +80,21 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ### Mia Software
 
-Emprendimiento enfocado en el desarrollo de soluciones digitales personalizadas.
-
-- Diseño web moderno  
-- Desarrollo fullstack  
-- Integración de bases de datos  
-- Interfaces limpias y funcionales  
+Desarrollo de soluciones digitales personalizadas enfocadas en diseño moderno, eficiencia técnica y experiencia de usuario limpia.
 
 ---
 
 ## Contacto
 
 Correo: miacsoftware@gmail.com  
-Portafolio: https://miacsoftware-cmd.github.io/Portafolio_mia/  
 Ubicación: Magangué, Bolívar, Colombia  
 
 ---
 
-<p align="center">
-Construyendo el futuro a través del desarrollo de software.
+<p align="center" style="color:#5B8EE8; font-size:18px;">
+Espero que este proyecto te inspire tanto como a mí me inspiró construirlo.
+</p>
+
+<p align="center" style="color:#0DB3D6;">
+Cada línea de código es una oportunidad para crear algo extraordinario.
 </p>
