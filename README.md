@@ -45,37 +45,3 @@ e innovadoras a través de Mia Software.
 Correo: miacsoftware@gmail.com
 Portafolio: https://miacsoftware-cmd.github.io/Portafolio_mia/
 Ubicación: Magangué, Bolívar, Colombia
-```
-
----
-
-## 2. Agrega foto de perfil
-
-Sube el logo `mia.png` o una foto tuya profesional. Haz clic en el círculo de la foto → **Edit**.
-
----
-
-## 3. Agrega topics al repositorio
-
-Ve a `Portafolio_mia` → clic en el engranaje ⚙️ junto a **About** y agrega:
-```
-portfolio  html  css  javascript  fullstack  dark-theme  emailjs  responsive
-```
-
----
-
-## 4. Actualiza la descripción del repositorio
-
-En ese mismo **About** cambia la descripción a:
-```
-Portafolio personal desarrollado con HTML, CSS y JavaScript. 
-Diseño oscuro profesional con formulario de contacto integrado via EmailJS.
-```
-
----
-
-## 5. Agrega el link del portafolio al repositorio
-
-En el **About** activa **Website** y pega:
-```
-https://miacsoftware-cmd.github.io/Portafolio_mia/
