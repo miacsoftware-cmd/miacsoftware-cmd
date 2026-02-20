@@ -2,33 +2,31 @@
 
 <h1 align="center">María Isabel Amaris Calderón</h1>
 
-<h3 align="center">
-Ingeniería de Software | Desarrolladora Fullstack en Formación <br>
-Fundadora de <strong>Mia Software</strong>
-</h3>
-
 <p align="center">
-Construyendo soluciones digitales modernas, eficientes y escalables.
+<strong>Software Engineering Student | Fullstack Developer</strong><br>
+Founder of Mia Software
 </p>
 
 <p align="center">
 <a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
-<img src="https://img.shields.io/badge/Visitar_Portafolio-5B8EE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-5B8EE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## Sobre mí
+## Professional Profile
 
-Estudiante de Ingeniería de Software en la Universidad de Cartagena, con enfoque en desarrollo web fullstack y diseño de bases de datos.
+Software Engineering student at Universidad de Cartagena with strong interest in fullstack development, system architecture and database design.
 
-Me interesa la arquitectura de software, la integración de sistemas y la creación de experiencias digitales funcionales y visualmente atractivas.  
-Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciendo mis habilidades técnicas y estratégicas.
+Focused on building scalable, structured and efficient web solutions.  
+Experience developing academic and independent projects applying clean code principles, REST integration and relational database modeling.
+
+Currently strengthening backend architecture, performance optimization and software design fundamentals.
 
 ---
 
-## Tech Stack
+## Technical Stack
 
 ### Frontend
 <p>
@@ -47,7 +45,7 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Bases de Datos
+### Databases
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-26a69a?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -55,7 +53,7 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Herramientas
+### Tools
 <p>
 <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -66,7 +64,7 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miacsoftware-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -75,22 +73,14 @@ Actualmente desarrollo proyectos propios a través de Mia Software, fortaleciend
 
 ---
 
-## Proyecto Destacado
+## Contact
 
-### Mia Software
-
-Desarrollo de soluciones digitales personalizadas enfocadas en rendimiento, estructura sólida y diseño profesional.
-
----
-
-## Contacto
-
-Correo: miacsoftware@gmail.com  
-Ubicación: Magangué, Bolívar, Colombia  
+Email: miacsoftware@gmail.com  
+Location: Colombia  
 
 ---
 
-<p align="center" style="font-size:18px;">
-El software no solo resuelve problemas, también crea oportunidades.  
-Mi propósito es convertir ideas en sistemas que generen impacto real.
+<p align="center">
+Strong systems are built on structure, clarity and intention.  
+I build software with all three.
 </p>
