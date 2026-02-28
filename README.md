@@ -1,99 +1,111 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= BANNER ======================= -->
 
-<h1 align="center">María Isabel Amaris Calderón</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=María%20Isabel%20Amaris%20Calderón&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <h3 align="center">
 💻 Ingeniera de Software en Formación | Full Stack Developer
 </h3>
 
 <p align="center">
-<em>Construyendo soluciones digitales escalables, eficientes y centradas en el usuario.</em>
+<em>Desarrollo soluciones digitales modernas, escalables y orientadas a resultados.</em>
 </p>
 
-<!-- Typing Effect -->
+<!-- Typing -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollo+Web+Full+Stack;Arquitectura+de+Software;Bases+de+Datos+y+Backend;Soluciones+Digitales+Profesionales"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Arquitectura+de+Software;Bases+de+Datos+y+Backend;Construyendo+soluciones+reales"/>
 </p>
 
-<!-- Botón Portafolio -->
+<!-- BOTONES -->
 <p align="center">
 <a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portafolio%20Profesional-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portafolio-2563EB?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mí
+## 👩‍💻 PERFIL PROFESIONAL
 
-Soy estudiante de Ingeniería de Software en la Universidad de Cartagena, con formación técnica en sistemas informáticos y enfoque en desarrollo full stack.
+Ingeniera de Software en formación en la Universidad de Cartagena, con base técnica en sistemas informáticos y enfoque en desarrollo web full stack.
 
-Me especializo en el diseño y desarrollo de aplicaciones web robustas, aplicando buenas prácticas de programación, modelado UML y gestión de bases de datos.
+Cuento con experiencia en el diseño, desarrollo e implementación de aplicaciones web, aplicando principios de ingeniería de software, modelado UML y estructuración de bases de datos.
 
-Trabajo en la creación de soluciones digitales bajo mi iniciativa **Mia Software**, donde combino tecnología, diseño y estrategia para resolver problemas reales.
+Actualmente lidero el desarrollo de soluciones digitales bajo mi iniciativa **Mia Software**, donde integro tecnología, diseño y estrategia para generar impacto real.
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🚀 STACK TECNOLÓGICO
 
 ### 🎨 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=php,nodejs,java,python"/>
 </p>
 
 ### 🗄️ Bases de Datos
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### 🛠️ Herramientas
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio"/>
 </p>
 
 ---
 
-## 🧠 Enfoque Profesional
+## 🧠 ENFOQUE COMO INGENIERA
 
-✔ Desarrollo de aplicaciones web completas (Frontend + Backend)  
-✔ Diseño y estructuración de bases de datos  
-✔ Aplicación de principios de ingeniería de software  
-✔ Modelado de sistemas (UML)  
-✔ Optimización de procesos mediante software  
+🔹 Desarrollo de sistemas web completos (Full Stack)  
+🔹 Diseño de arquitectura de software  
+🔹 Modelado de sistemas con UML  
+🔹 Gestión y optimización de bases de datos  
+🔹 Aplicación de buenas prácticas de desarrollo  
+🔹 Resolución de problemas mediante tecnología  
 
 ---
 
-## 💼 Proyecto Destacado
+## 💼 PROYECTO DESTACADO
 
 ### 🔷 Mia Software
 
-Iniciativa enfocada en el desarrollo de soluciones digitales personalizadas, orientadas a:
+Marca personal enfocada en el desarrollo de soluciones digitales profesionales:
 
-- Automatización de procesos  
-- Desarrollo de sistemas web  
-- Optimización de experiencias digitales  
-- Implementación de soluciones escalables  
+✔ Sistemas web personalizados  
+✔ Automatización de procesos  
+✔ Diseño de interfaces modernas  
+✔ Soluciones escalables y eficientes  
+
+---
+
+## 📫 CONTACTO
+
+<p align="center">
+📧 miacsoftware@gmail.com <br>
+📍 Magangué, Bolívar, Colombia
+</p>
 
 ---
 
-## 📫 Contacto
-
-📧 **Correo:** miacsoftware@gmail.com  
-📍 **Ubicación:** Magangué, Bolívar, Colombia  
-
----
+## 🌐 FILOSOFÍA
 
 <p align="center">
 <strong>
-"El software no solo resuelve problemas, crea oportunidades."
+El software es una herramienta para transformar ideas en soluciones reales.
 </strong>
 </p>
 
 <p align="center">
-<sub>© 2026 - María Isabel Amaris Calderón</sub>
+<sub>© 2026 - María Isabel Amaris Calderón | Mia Software</sub>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
 </p>
