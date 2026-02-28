@@ -3,8 +3,7 @@
 <h1 align="center">María Isabel Amaris Calderón</h1>
 
 <h3 align="center">
-  Ingeniera de Software en Formación | Desarrolladora Fullstack <br>
-  Fundadora de <strong>Mia Software</strong>
+  Ingeniera de Software en Formación | Desarrolladora Fullstack
 </h3>
 
 <p align="center">
@@ -23,7 +22,7 @@
 
 Soy estudiante de noveno semestre de **Ingeniería de Software** en la Universidad de Cartagena. Me especializo en el desarrollo full-stack y el diseño de bases de datos, con un fuerte enfoque en la creación de soluciones robustas y mantenibles.
 
-Mi pasión reside en la arquitectura de software y la integración de sistemas. Disfruto el proceso de transformar requisitos complejos en código limpio y eficiente. A través de mi emprendimiento, **Mia Software**, no solo aplico mis conocimientos técnicos, sino que también desarrollo habilidades estratégicas y de gestión de proyectos, liderando la creación de soluciones digitales personalizadas.
+Mi pasión reside en la arquitectura de software y la integración de sistemas. Disfruto el proceso de transformar requisitos complejos en código limpio y eficiente, aplicando principios de diseño que garantizan la escalabilidad y el rendimiento de las aplicaciones que desarrollo.
 
 ---
 
@@ -62,13 +61,6 @@ Mi pasión reside en la arquitectura de software y la integración de sistemas. 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
 </p>
-
----
-
-## 🚀 Proyecto Destacado
-
-### Mia Software
-Plataforma de servicios tecnológicos dedicada al desarrollo de soluciones digitales a la medida. Me desempeño como arquitecta y desarrolladora principal, asegurando que cada proyecto se construya sobre una base de **código limpio, arquitectura escalable y diseño centrado en el usuario**.
 
 ---
 
