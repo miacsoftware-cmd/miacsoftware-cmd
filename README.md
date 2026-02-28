@@ -1,7 +1,7 @@
-<!-- ======================= BANNER EMPRESA ======================= -->
+<!-- ======================= HERO ======================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Mia%20Software&fontSize=40&fontColor=38BDF8&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=250&section=header&text=Mia%20Software&fontSize=45&fontColor=38BDF8&animation=fadeIn"/>
 </p>
 
 <h2 align="center">María Isabel Amaris Calderón</h2>
@@ -11,95 +11,124 @@
 </p>
 
 <p align="center">
-<em>Building scalable digital products with real-world impact.</em>
+<em>Building scalable, modern and impactful digital solutions.</em>
 </p>
 
-<!-- Typing Effect -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Development;Software+Architecture;Backend+%26+Databases;Digital+Solutions+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Development;Software+Architecture;Backend+Engineering;Digital+Product+Development"/>
 </p>
 
-<!-- BOTONES -->
 <p align="center">
 <a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20View%20Portfolio-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0EA5E9?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## 🏢 ABOUT MIA SOFTWARE
+## 🏢 MIA SOFTWARE
 
-**Mia Software** is a personal software development initiative focused on designing and building high-quality digital solutions.
+<p align="center">
+<strong>Digital solutions brand focused on performance, scalability and real impact.</strong>
+</p>
 
-We specialize in:
+Mia Software is a personal initiative focused on building professional software solutions that combine:
 
-- Custom web applications  
-- Process automation systems  
-- Scalable backend architectures  
-- Modern user interfaces  
-
-Our goal is to transform ideas into efficient, functional, and impactful digital products.
+- ⚙️ Performance  
+- 🧠 Architecture  
+- 🎨 Design  
+- 🚀 Scalability  
 
 ---
 
 ## 👩‍💻 ENGINEER PROFILE
 
-Software Engineering student at the University of Cartagena with a technical background in IT systems.
+Software Engineering student with a strong technical foundation in systems development.
 
-Focused on full stack development, software architecture, and database design.  
-Experienced in building structured, maintainable and scalable applications.
+Focused on:
 
-Driven by continuous learning, problem-solving and real-world project development.
+- Full Stack Development  
+- Software Architecture  
+- Database Design  
+- Real-world problem solving  
+
+Driven by continuous improvement and building meaningful technology.
 
 ---
 
-## 🚀 TECHNOLOGY STACK
+## 🚀 TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,nodejs,java,python,mysql,mongodb,git,github,postman,figma,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,nodejs,java,python,mysql,mongodb,git,github,postman,figma"/>
 </p>
-
----
-
-## 🧩 CORE CAPABILITIES
-
-✔ Full Stack Web Development  
-✔ Software Architecture Design  
-✔ UML Modeling & System Analysis  
-✔ Database Design & Optimization  
-✔ REST API Development  
-✔ Clean Code & Best Practices  
 
 ---
 
 ## 💼 FEATURED PROJECTS
 
-### 🔷 Web Systems Development
-Design and development of dynamic web platforms with structured backend and optimized databases.
+<!-- CARD 1 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=120&section=header&text=Web%20Systems&fontSize=25&fontColor=38BDF8"/>
+</p>
 
-### 🔷 Automation Solutions
-Implementation of systems that streamline processes and improve operational efficiency.
+<p align="center">
+Development of structured web platforms with optimized backend, authentication systems and database integration.
+</p>
 
-### 🔷 Custom Digital Solutions
-Tailored software built according to specific user and business needs.
+---
+
+<!-- CARD 2 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=120&section=header&text=Automation%20Solutions&fontSize=25&fontColor=38BDF8"/>
+</p>
+
+<p align="center">
+Design of systems that automate processes, reduce manual work and improve efficiency.
+</p>
+
+---
+
+<!-- CARD 3 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=120&section=header&text=Custom%20Software&fontSize=25&fontColor=38BDF8"/>
+</p>
+
+<p align="center">
+Tailored digital solutions built to meet specific needs with scalable architecture.
+</p>
+
+---
+
+## 🧠 CORE SKILLS
+
+<p align="center">
+
+✔ Full Stack Development  
+✔ Software Architecture  
+✔ UML Modeling  
+✔ Database Optimization  
+✔ REST APIs  
+✔ Clean Code  
+
+</p>
 
 ---
 
 ## 📫 CONTACT
 
 <p align="center">
-📧 miacsoftware@gmail.com <br>
-📍 Colombia
+📧 miacsoftware@gmail.com  
+<br>
+📍 Colombia  
 </p>
 
 ---
 
-## 🌐 PHILOSOPHY
+## 🌐 VISION
 
 <p align="center">
 <strong>
-Technology is not just about code — it's about solving problems and creating value.
+Building technology that transforms ideas into real solutions.
 </strong>
 </p>
 
