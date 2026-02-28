@@ -3,88 +3,97 @@
 <h1 align="center">María Isabel Amaris Calderón</h1>
 
 <h3 align="center">
-Ingeniera de Software en Formación | Desarrolladora Full Stack
+💻 Ingeniera de Software en Formación | Full Stack Developer
 </h3>
 
 <p align="center">
-Especializada en el desarrollo de soluciones digitales eficientes, escalables y orientadas a resultados.
+<em>Construyendo soluciones digitales escalables, eficientes y centradas en el usuario.</em>
 </p>
 
+<!-- Typing Effect -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollo+Web+Full+Stack;Arquitectura+de+Software;Bases+de+Datos+y+Backend;Soluciones+Digitales+Profesionales"/>
+</p>
+
+<!-- Botón Portafolio -->
 <p align="center">
 <a href="https://miacsoftware-cmd.github.io/Portafolio_mia/" target="_blank">
-<img src="https://img.shields.io/badge/Portafolio_Web-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portafolio%20Profesional-2563EB?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## Perfil Profesional
+## 👩‍💻 Sobre mí
 
-Estudiante de Ingeniería de Software en la Universidad de Cartagena, con formación técnica en sistemas informáticos y experiencia en desarrollo de aplicaciones web.
+Soy estudiante de Ingeniería de Software en la Universidad de Cartagena, con formación técnica en sistemas informáticos y enfoque en desarrollo full stack.
 
-Cuento con habilidades en diseño y construcción de sistemas bajo un enfoque estructurado, aplicando principios de arquitectura de software, modelado UML y gestión de bases de datos.
+Me especializo en el diseño y desarrollo de aplicaciones web robustas, aplicando buenas prácticas de programación, modelado UML y gestión de bases de datos.
 
-Me enfoco en la creación de soluciones tecnológicas que integren funcionalidad, rendimiento y una experiencia de usuario sólida. Actualmente desarrollo proyectos propios bajo la iniciativa <strong>Mia Software</strong>.
+Trabajo en la creación de soluciones digitales bajo mi iniciativa **Mia Software**, donde combino tecnología, diseño y estrategia para resolver problemas reales.
 
 ---
 
-## Competencias Técnicas
+## 🚀 Stack Tecnológico
 
-### Desarrollo Frontend
+### 🎨 Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 </p>
 
-### Desarrollo Backend
+### ⚙️ Backend
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,java,python"/>
 </p>
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Herramientas y Tecnologías
+### 🛠️ Herramientas
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio"/>
 </p>
 
 ---
 
-## Experiencia y Proyectos
+## 🧠 Enfoque Profesional
 
-### Mia Software
-
-Iniciativa enfocada en el desarrollo de soluciones digitales personalizadas, orientadas a la optimización de procesos, automatización y mejora de la experiencia del usuario.
-
-He liderado el diseño y desarrollo de proyectos que integran frontend y backend, aplicando buenas prácticas de desarrollo, control de versiones y estructuración de bases de datos.
+✔ Desarrollo de aplicaciones web completas (Frontend + Backend)  
+✔ Diseño y estructuración de bases de datos  
+✔ Aplicación de principios de ingeniería de software  
+✔ Modelado de sistemas (UML)  
+✔ Optimización de procesos mediante software  
 
 ---
 
-## Información de Contacto
+## 💼 Proyecto Destacado
 
-📧 Correo: miacsoftware@gmail.com  
-📍 Ubicación: Magangué, Bolívar, Colombia  
+### 🔷 Mia Software
+
+Iniciativa enfocada en el desarrollo de soluciones digitales personalizadas, orientadas a:
+
+- Automatización de procesos  
+- Desarrollo de sistemas web  
+- Optimización de experiencias digitales  
+- Implementación de soluciones escalables  
+
+---
+
+## 📫 Contacto
+
+📧 **Correo:** miacsoftware@gmail.com  
+📍 **Ubicación:** Magangué, Bolívar, Colombia  
 
 ---
 
 <p align="center">
-<em>
-El desarrollo de software es una herramienta para transformar ideas en soluciones reales.  
-Mi objetivo es construir tecnología que genere valor, eficiencia e impacto.
-</em>
+<strong>
+"El software no solo resuelve problemas, crea oportunidades."
+</strong>
+</p>
+
+<p align="center">
+<sub>© 2026 - María Isabel Amaris Calderón</sub>
 </p>
