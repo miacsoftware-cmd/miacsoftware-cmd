@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <i>Arquitectura de software limpia, sistemas escalables y experiencias digitales de alto impacto.</i>
+  <i>Arquitectura de software limpia, sistemas escalables y experiencias digitales.</i>
 </p>
 
 <p align="center">
