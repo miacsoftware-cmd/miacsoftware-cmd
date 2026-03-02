@@ -20,7 +20,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre Mí
 
-Soy estudiante de noveno semestre de **Ingeniería de Software** en la Universidad de Cartagena. Me especializo en el desarrollo full-stack y el diseño de bases de datos, con un fuerte enfoque en la creación de soluciones robustas y mantenibles.
+Soy estudiante de sexto semestre de **Ingeniería de Software** en la Universidad de Cartagena. Me especializo en el desarrollo full-stack y el diseño de bases de datos, con un fuerte enfoque en la creación de soluciones robustas y mantenibles.
 
 Mi pasión reside en la arquitectura de software y la integración de sistemas. Disfruto el proceso de transformar requisitos complejos en código limpio y eficiente, aplicando principios de diseño que garantizan la escalabilidad y el rendimiento de las aplicaciones que desarrollo.
 
