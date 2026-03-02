@@ -65,5 +65,5 @@ Mi pasión reside en la arquitectura de software y la integración de sistemas. 
 ---
 
 <p align="center">
-  <i>"El software no solo resuelve problemas, también crea oportunidades. Mi propósito es construir sistemas que generen un impacto real y duradero."</i>
+  <i>"Programar es, para mí, el arte de dar vida a lo que antes solo existía en papel. Pero nunca olvido que, al otro lado de la pantalla, hay personas. Por eso diseño pensando en quienes usarán el producto y también en quienes lo mantendrán. Mi compromiso no termina con la implementación: comienza ahí, con la calidad y la funcionalidad que aseguran que el software perdure."</i>
 </p>
