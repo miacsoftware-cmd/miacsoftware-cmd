@@ -64,14 +64,6 @@ Mi pasión reside en la arquitectura de software y la integración de sistemas. 
 
 ---
 
-## 📫 Conectemos
-
-- **Correo:** [miacsoftware@gmail.com](mailto:miacsoftware@gmail.com)
-- **Ubicación:** Magangué, Bolívar, Colombia
-- **Portafolio:** [miacsoftware-cmd.github.io/Portafolio_mia/](https://miacsoftware-cmd.github.io/Portafolio_mia/)
-
----
-
 <p align="center">
   <i>"El software no solo resuelve problemas, también crea oportunidades. Mi propósito es construir sistemas que generen un impacto real y duradero."</i>
 </p>
